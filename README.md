@@ -10,7 +10,7 @@
 ---
 
 **Code Archeology** adalah alat untuk menjelajahi dan menganalisis kode serta sejarah perubahannya dalam sebuah repository.  
-Bayangkan seperti *arkeologi digital*: menelusuri jejak kode lama untuk memahami evolusi dan struktur proyek.
+Bayangkan seperti *arkeologi digital* : menelusuri jejak kode lama untuk memahami evolusi dan struktur proyek.
 
 
 ---
