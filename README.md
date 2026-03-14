@@ -1,22 +1,32 @@
 # Code Archeology 🔎💻
 
-**Code Archeology** adalah alat untuk menjelajahi dan menganalisis kode serta sejarah perubahannya dalam sebuah repository.  
-Bayangkan seperti *arkeologi digital*: kita menelusuri jejak-jejak kode lama untuk memahami bagaimana sebuah proyek berkembang dan bagaimana struktur kode terbentuk.  
+[![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://agusadhitama.github.io/code-archeology/)
 
 ---
 
-## 🚀 Fitur
+**Code Archeology** adalah alat untuk menjelajahi dan menganalisis kode serta sejarah perubahannya dalam sebuah repository.  
+Bayangkan seperti *arkeologi digital*: kita menelusuri jejak-jejak kode lama untuk memahami bagaimana proyek berkembang dan bagaimana struktur kode terbentuk.  
 
-- 🔍 **Telusuri commit history** : Lihat perubahan kode dari waktu ke waktu  
-- 📊 **Visualisasi evolusi kode** : Pahami struktur dan pola kode secara visual  
-- 🧭 **Analisis struktur kode lama** : Membantu memahami proyek legacy atau kompleks  
-- ⚡ **Mudah digunakan** : Tinggal jalankan dan eksplorasi repository pilihanmu  
+🎬 **Demo Singkat**  
+
+![Demo GIF](https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif)  
+
+---
+
+## 🚀 Fitur Utama
+
+- 🔍 **Telusuri commit history** - Lacak perubahan kode dari waktu ke waktu  
+- 📊 **Visualisasi evolusi kode** - Struktur kode mudah dipahami secara visual  
+- 🧭 **Analisis proyek legacy** - Memahami proyek lama atau kompleks  
+- ⚡ **Mudah digunakan** - Langsung jalankan dan eksplorasi  
 
 ---
 
 ## 🛠️ Teknologi
 
-- **JavaScript** - untuk logika dan interaktivitas  
+- **JavaScript** - logika & interaktivitas  
 - **HTML & CSS** - tampilan antarmuka  
 - **Node.js** - menjalankan aplikasi lokal (opsional tergantung fitur)  
 
@@ -24,6 +34,15 @@ Bayangkan seperti *arkeologi digital*: kita menelusuri jejak-jejak kode lama unt
 
 ## 💻 Cara Menjalankan
 
-1. Clone repo ini:  
-   ```bash
-   git clone https://github.com/agusadhitama/code-archeology.git
+```bash
+# Clone repo
+git clone https://github.com/agusadhitama/code-archeology.git
+
+# Masuk folder project
+cd code-archeology
+
+# Install dependency
+npm install
+
+# Jalankan aplikasi
+node app.js
