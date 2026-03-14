@@ -9,10 +9,6 @@
 **Code Archeology** adalah alat untuk menjelajahi dan menganalisis kode serta sejarah perubahannya dalam sebuah repository.  
 Bayangkan seperti *arkeologi digital*: kita menelusuri jejak-jejak kode lama untuk memahami bagaimana proyek berkembang dan bagaimana struktur kode terbentuk.  
 
-🎬 **Demo Singkat**  
-
-![Demo GIF](https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif)  
-
 ---
 
 ## 🚀 Fitur Utama
