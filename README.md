@@ -26,10 +26,10 @@ Each repository is a city, commits are artifacts, and programming languages are 
 
 ## 🖥 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript  
-- **Visualization:** Three.js, GSAP  
-- **API:** GitHub REST API  
-- **Dev Server:** Vite  
+- **Frontend :** HTML, CSS, JavaScript  
+- **Visualization :** Three.js, GSAP  
+- **API :** GitHub REST API  
+- **Dev Server :** Vite  
 
 ---
 
