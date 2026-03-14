@@ -1,0 +1,15 @@
+{
+  "name": "code-archeology",
+  "version": "1.0.0",
+  "description": "Explore GitHub developers like ancient civilizations",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "three": "^0.158.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
