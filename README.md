@@ -1,41 +1,40 @@
 # 🌌 Code Archeology
 
-belum dipikirkan
+```💻
+Explore developer civilizations in style.
+Insert a GitHub username, analyze, and watch your repositories come alive in 3D.
+```
 
 ---
 
-## 🛠 Features
-
-ini juga sama wkwkw 
-
----
-
-## 💡 Concept
-
-sama ininjuga
-
----
-
-## 🖥 Tech Stack
-
-hhmm aja deh
-
----
-
-
----
-
-## ⚡ Installation
-
-1. Clone the repo
-
-```bash
+# 🚀 Quick Start
+```
+# Clone the repo
 git clone https://github.com/agusadhitama/code-archeology.git
-
 cd code-archeology
 
+# Install dependencies
 npm install
 
+# Start dev server
 npm run start
 
-Open in browser: http://localhost:5173
+# Open browser
+http://localhost:5173
+```
+
+---
+
+# 🚀 Quick Start
+[Input GitHub username] -> Analyze -> Profile + Repo stats + 3D globe visualization
+
+---
+
+# 🙌🏽 Contributing
+Fork → Branch → Commit → PR
+Keep features compatible with GitHub API
+
+---
+
+# 📄 License
+MIT License
